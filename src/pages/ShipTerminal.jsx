@@ -1,6 +1,6 @@
 import PlanetData from "./samsa-vi/briefing-docs/PlanetData.jsx";
 import Timeline from "./samsa-vi/briefing-docs/Timeline.jsx";
-import Example from "./samsa-vi/greta-station/example.jsx";
+import Example from "./samsa-vi/greta-station/Example.jsx";
 
 function ShipTerminal() {
 
