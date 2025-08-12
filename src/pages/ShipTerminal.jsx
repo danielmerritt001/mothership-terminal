@@ -1,5 +1,5 @@
-import PlanetData from "./SamsaVI/briefing-docs/PlanetData.jsx";
-import Timeline from "./SamsaVI/briefing-docs/timeline.jsx";
+import PlanetData from "./samsa-vi/briefing-docs/PlanetData.jsx";
+import Timeline from "./samsa-vi/briefing-docs/timeline.jsx";
 
 function ShipTerminal() {
 
