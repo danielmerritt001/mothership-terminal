@@ -34,7 +34,7 @@ function Timeline() {
       <details>
         <summary>3 months prior</summary>
         <div className="details--content">
-          The Client hired the Company to investigate the situation.
+          The Client hired The Company to investigate the situation.
         </div>
       </details>
       <details>

@@ -4,7 +4,7 @@ function PlanetData() {
    <details>
     <summary>Planet Data</summary>
     <div className="details--content">
-      Samsa VI s a super Earth exoplanet that orbits an M-type star. Its mass is 1.2 Earths  and is 0.0649 AU from its star. 
+      Samsa VI is a super Earth exoplanet that orbits an M-type star. Its mass is 1.2 Earths and is 0.0649 AU from its star. 
     </div>
     <div className="details--content">
       <details>
