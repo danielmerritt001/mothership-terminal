@@ -1,5 +1,5 @@
-// import PlanetData from "./samsa-vi/briefing-docs/PlanetData.jsx";
-// import Timeline from "./samsa-vi/briefing-docs/timeline.jsx";
+import PlanetData from "./samsa-vi/briefing-docs/PlanetData.jsx";
+import Timeline from "./samsa-vi/briefing-docs/Timeline.jsx";
 
 function ShipTerminal() {
 
@@ -11,8 +11,8 @@ function ShipTerminal() {
         Data provided by the Company located aboard the <em>Metamorphosis</em>
       </div>
       <div className="details--content">
-        {/* <PlanetData /> */}
-        {/* <Timeline /> */}
+        <PlanetData />
+        <Timeline />
       </div>
     </details>
    </div>
