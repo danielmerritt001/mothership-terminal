@@ -4,49 +4,49 @@ function Timeline() {
    <details>
     <summary>Timeline</summary>
     <div className="details--content">
-      Information deemed pertinent and necessary for the completion of this mission. Dates are provided in relation to the start of the mission using Earth Time.
+      Information deemed pertinent and necessary for completion of mission. Dates are provided in relation to start of mission using Earth Time.
     </div>
     <div className="details--content">
       <details>
         <summary>9 Years, 11 months, and 3 days prior </summary>
         <div className="details--content">
-          The Client detects signs of biochemistry on Samsa VI and decided to send a scouting team to investigate.
+          Client detects signs of biochemistry on Samsa VI and decided to send scouting team to investigate.
         </div>
       </details>
       <details>
         <summary>1 year, 2 months prior</summary>
         <div className="details--content">
-          A skeleton crew of researchers, engineers, and marines arrived on Samsa VI to establish Greta Base and Heron Terraforming Station. They discovered a species of arthropods, labeled them carcinids or “carcs,” and proceeded to terminate them on sight.
+          Skeleton crew of researchers, engineers, and marines arrived on Samsa VI to establish Greta Base and Heron Terraforming Station. They discovered a species of arthropods, labeled as carcinids or “carcs,” and proceeded to terminate on sight.
         </div>
       </details>
       <details>
         <summary>9 months, 1 week, 4 days prior</summary>
         <div className="details--content">
-          The colonists captured a carc larva for experimentation and study.
+          Colonists captured carc larva for experimentation and study.
         </div>
       </details>
       <details>
         <summary>6 months prior</summary>
         <div className="details--content">
-          The Greta Base ceased all communications with the Client.
+          Greta Base ceased all communications with Client.
         </div>
       </details>
       <details>
         <summary>3 months prior</summary>
         <div className="details--content">
-          The Client hired The Company to investigate the situation.
+          Client hired The Company to investigate situation.
         </div>
       </details>
       <details>
         <summary>5 weeks, 6 days prior</summary>
         <div className="details--content">
-          The <em>Metamorphosis</em> entered the Samsa Solar system and found Greta Base unresponsive to hailing.
+          The <em>Metamorphosis</em> entered Samsa Solar system and found Greta Base unresponsive to hailing.
         </div>
       </details>
       <details>
         <summary>Mission Start</summary>
         <div className="details--content">
-          The crew will be ferried onto Samsa VI via dropship. Torrential rainpour expected. No response to radio communication. Mission objectives are:
+          Crew will be ferried onto Samsa VI via dropship. Torrential rainpour expected. No response to radio communication. Mission objectives are:
           <ol>
             <li>Rendezvous with 2ndLt Kaplan, the marine commander of the colony, and assist them in repairing the situation.</li>
             <li>Re-establish satellite communications and get the terraformer back online.</li>
