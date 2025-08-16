@@ -1,5 +1,6 @@
 import MarineBarracks from "./crew-habitat/MarineBarracks.jsx";
 import Medbay from "./crew-habitat/Medbay.jsx";
+import GretaMap from "./command-center/GretaMap.jsx";
 
 function GretaBase() {
   return (
@@ -8,6 +9,7 @@ function GretaBase() {
       <div className="details--content">
         {/* <MarineBarracks /> */}
         {/* <Medbay /> */}
+        {/* <GretaMap /> */}
       </div>
     </details>
   )

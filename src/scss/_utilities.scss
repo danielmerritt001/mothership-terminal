@@ -1,30 +1,18 @@
 
 $small-spacing: 1rem;
 
+.color--accent {
+  color: orange;
+}
+
+.display-flex {
+  display: flex;
+}
+
 .padding-bottom {
   padding-bottom: $small-spacing;
 }
 
-.journal {
-  text-indent: 1rem;
-  max-width: 90%;
-  margin: auto;
-  padding-bottom: 1rem;
-}
-
-.journal-intro {
-  max-width: 90%;
-  margin: auto;
-}
-
-.correspondance-left {
-  margin-right: auto;
-  max-width: 45%;
-  color: goldenrod;
-}
-.correspondance-right {
-  margin-left: auto;
-  max-width: 45%;
-  text-align: right;
-  color: blueviolet;
+.type-large {
+  font-size: 1.2rem;
 }
