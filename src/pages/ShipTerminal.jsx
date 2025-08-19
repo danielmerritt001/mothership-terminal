@@ -1,6 +1,6 @@
+import DiceRoller from "./meta/DiceRoller.jsx";
 import PlanetData from "./samsa-vi/briefing-docs/PlanetData.jsx";
 import Timeline from "./samsa-vi/briefing-docs/Timeline.jsx";
-import Example from "./samsa-vi/greta-station/Example.jsx";
 
 function ShipTerminal() {
 
@@ -14,7 +14,7 @@ function ShipTerminal() {
       <div className="details--content">
         <PlanetData />
         <Timeline />
-        <Example />
+        <DiceRoller />
       </div>
     </details>
    </div>

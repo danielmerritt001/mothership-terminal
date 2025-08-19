@@ -1,0 +1,15 @@
+
+.button-group__button {
+  min-width: 4rem;
+  min-height: 2rem;
+  & + button {
+    margin-left: 1rem;
+  }
+}
+
+.button-group {
+  padding-top: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
