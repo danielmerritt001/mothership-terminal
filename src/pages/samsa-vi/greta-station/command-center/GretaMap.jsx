@@ -3,8 +3,8 @@ function GretaMap() {
   return (
    <details>
     <summary>Greta Base Map</summary>
-    <div className="details--content display-flex">
-      <div>
+    <div className="details--content display-flex justify-space-between">
+      <div className="crt--image">
         <img src="greta-base.png" alt="" />
       </div>
       <ol class="color--accent type-large">
