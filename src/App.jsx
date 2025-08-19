@@ -8,7 +8,7 @@ function App() {
     <div className="body">
       <AppHeader />
       <ShipTerminal />
-      {/* <GretaBase /> */}
+      <GretaBase />
     </div>
   )
 }
