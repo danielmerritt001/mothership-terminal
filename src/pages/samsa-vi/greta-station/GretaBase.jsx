@@ -7,7 +7,7 @@ function GretaBase() {
     <details>
       <summary>Greta Base</summary>
       <div className="details--content">
-        {/* <MarineBarracks /> */}
+        <MarineBarracks />
         <Medbay />
         <GretaMap />
       </div>
